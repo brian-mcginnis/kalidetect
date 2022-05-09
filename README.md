@@ -14,7 +14,8 @@ The following usage case downloads the .gz kali-dev repository files for the arm
 
 ```bash
 > python3 kali_stats.py amd64
-
+```
+```python
 Found File ( 1 of 1 ) 'Contents-arm64.gz' in Directory
 Running Analysis on architecture 'arm64'
 Reading package files
