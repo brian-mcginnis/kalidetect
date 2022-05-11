@@ -13,7 +13,7 @@ It accomplishes this by first scraping the website for supported architecture ty
 The following usage case downloads the .gz kali-dev repository files for the arm64 architecture.
 
 ```bash
-> python3 kali_stats.py amd64
+> python3 kali_stats.py arm64
 ```
 ```python
 Found File ( 1 of 1 ) 'Contents-arm64.gz' in Directory
